@@ -16,3 +16,5 @@ This is my CS50P Week 3 project. Built with Python. No libraries.
 
 ```bash
 python eligibility.py
+
+Built: May 2026 | CS50P Week 3
