@@ -8,7 +8,7 @@ A CLI tool that checks MS AI eligibility for MBZUAI, KAUST, LUMS using official 
 Features: Custom exceptions, input validation, clean table output.
 Tech: Python, OOP, Custom Error Handling
 
-## What It Does
+## What it does?
 
 1. Asks for CGPA, IELTS, GRE
 2. Checks against official requirements for 3 universities
